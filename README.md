@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kamil</h1>
-<h3 align="center">Cybersecurity enthusiast and lover of solving technical problems and analyzing threats</h3>
-<br>
+<h3 align="center">Cybersecurity enthusiast and lover of solving technical problems and analyzing threats</h3><br>
 
 - 🔭 I’m currently working on **personal development**
 
@@ -8,7 +7,6 @@
 
 - ⚡ Fun fact **One of the most popular passwords in the world is "123456", used by over 23 million users!**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
