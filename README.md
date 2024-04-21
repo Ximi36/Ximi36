@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kamil</h1>
 <h3 align="center">Cybersecurity enthusiast and lover of solving technical problems and analyzing threats</h3>
 
+
 - 🔭 I’m currently working on **personal development**
 
 - 🌱 I’m currently learning **Kubernetes, Docker, Pentesting**
-
-- 📫 How to reach me **ximiix36@spoko.pl**
 
 - ⚡ Fun fact **One of the most popular passwords in the world is "123456", used by over 23 million users!**
 
