@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **personal development**
 
-- 🌱 I’m currently learning **Kubernetes, Docker, Pentesting**
+- 🌱 I’m currently learning **Kubernetes, Docker, Pentesting and Web Development**
 
 - ⚡ Fun fact **One of the most popular passwords in the world is "123456", used by over 23 million users!**
 
